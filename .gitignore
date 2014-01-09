@@ -2,6 +2,8 @@
 *.o
 *.a
 *.so
+*.exe
+*.dll
 
 # Folders
 _obj
